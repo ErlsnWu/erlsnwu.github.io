@@ -1,13 +1,16 @@
 # Welcome To Erlsn's Yard
-A Place For Computer Enthusiast, Either Hardware Or Software.
+A place for computer enthusiast, either hardware or software.
 
 ## About The Yard
-There Will Be Some Information About Programming(Especially On Machine/Deep Learning) Video Game Console Repair/Restoration, Model(GUNPLA) And Making Some Electronic Device.
-Except For The "Concrete" Things, There Will Be Some "Abstract" Things Such As Note About Programming, Mathematics And Electronic.
+There will be some information about programming(especially on machine/deep Learning), video game console repair/restoration, model(GUNPLA) and making electronic device/project.
+Except for the "CONCRETE" things, there also will be some "abstract" things such as note about programming, mathematics and electronic.
 
 ## About Erlsn
-A Computer Enthusiast, Starting When I was A Little Kid.
-Major In Computer Science & Engineering.
-Also A Senior Video Game Gamer, Amateur Tennis Player. I'm Not The Best One But The Most Enthusiastic One.
+A computer enthusiast, starting when I was a little kid.
+Major in computer science & engineering.
+Also a senior video game gamer, amateur tennis player. I'm Not The Best One But The Most Enthusiastic One.
 
 ## BookList
+###-----Mathematics-----
+###-----Programming-----
+###-----Electronic-----

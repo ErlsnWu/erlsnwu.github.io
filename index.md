@@ -1,35 +1,13 @@
-## Welcome To Erlsn's Yard
+# Welcome To Erlsn's Yard
+A Place For Computer Enthusiast, Either Hardware Or Software.
 
-A Place For Computer Enthusiast, Either HardWare Or SoftWare.
+## About The Yard
+There Will Be Some Information About Programming(Especially On Machine/Deep Learning) Video Game Console Repair/Restoration, Model(GUNPLA) And Making Some Electronic Device.
+Except For The "Concrete" Things, There Will Be Some "Abstract" Things Such As Note About Programming, Mathematics And Electronic.
 
-### Markdown
+## About Erlsn
+A Computer Enthusiast, Starting When I was A Little Kid.
+Major In Computer Science & Engineering.
+Also A Senior Video Game Gamer, Amateur Tennis Player. I'm Not The Best One But The Most Enthusiastic One.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ErlsnWu/erlsnwu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## BookList
